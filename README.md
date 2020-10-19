@@ -44,8 +44,4 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Endwiz&show_icons=true&theme=material-palenight&?count_private=true&include_all_commits=true">
     </p>
     <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-    <br>
-    <a align="center" href="https://github.com/0x307845">
-        <p> This homepage was entirely inspired by the work of 0xE, check out his Github </p>
-    </a>
 </p>
