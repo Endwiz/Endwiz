@@ -24,20 +24,24 @@
             </a>
         </p>
     </p>
-    <p align="center">
-        <a href="https://www.youtube.com/channel/UCXJ-QiIIAO3RHBNT4r7WA4A">
-            <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/streaming/youtube.svg" alt="YT badge" style="vertical-align:top margin:6px 4px;">
-        </a>
-        <a href="https://twitch.tv/EndwizJoestar">
-            <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/streaming/twitch.svg" alt="Twitch badge" style="vertical-align:top margin:6px 4px;">
-        </a>
-        <a href="https://twitter.com/EndwizJoestar">
-            <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" alt="Twitter badge" style="vertical-align:top margin:6px 4px;">
-        </a>
+    <p>
+        <h3>Social Media:</h3>
+        <p align="center">
+            <a href="https://www.youtube.com/channel/UCXJ-QiIIAO3RHBNT4r7WA4A">
+                <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/streaming/youtube.svg" alt="YT badge" style="vertical-align:top margin:6px 4px;">
+            </a>
+            <a href="https://twitch.tv/EndwizJoestar">
+                <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/streaming/twitch.svg" alt="Twitch badge" style="vertical-align:top margin:6px 4px;">
+            </a>
+            <a href="https://twitter.com/EndwizJoestar">
+                <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" alt="Twitter badge" style="vertical-align:top margin:6px 4px;">
+            </a>
+        </p>
     </p>
-    <br>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Endwiz&show_icons=true&theme=material-palenight&?count_private=true&include_all_commits=true">
+    <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Endwiz&show_icons=true&theme=material-palenight&?count_private=true&include_all_commits=true">
+    </p>
     <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
     <br>
     <a align="center" href="https://github.com/0x307845">
