@@ -1,16 +1,27 @@
 <p align="center">
-    <a href="#">
-        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="Java badge" style="vertical-align:top margin:6px 4px">
-    </a> 
-    <a href="#">
-        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" alt="IntelliJ badge" style="vertical-align:top margin:6px 4px">
-    </a> 
-    <a href="">
-        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html badge" style="vertical-align:top margin:6px 4px;">
-    </a>
     <p>
-        <a href="https://youtube.com">
+        <h3>Languages</h3>
+        <a>
+            <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="Java badge" style="vertical-align:top margin:6px 4px">
+        </a> 
+        <a>
+            <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html badge" style="vertical-align:top margin:6px 4px;">
+        </a>
+    </p>
+    <p>
+        <a href="https://www.jetbrains.com/fr-fr/idea/download/#section=windows">
+            <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" alt="IntelliJ badge" style="vertical-align:top margin:6px 4px">
+        </a>
+    </p>
+    <p align="center">
+        <a href="https://www.youtube.com/channel/UCXJ-QiIIAO3RHBNT4r7WA4A">
             <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/streaming/youtube.svg" alt="YT badge" style="vertical-align:top margin:6px 4px;">
+        </a>
+        <a href="https://twitch.tv/EndwizJoestar">
+            <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/streaming/twitch.svg" alt="Twitch badge" style="vertical-align:top margin:6px 4px;">
+        </a>
+        <a href="https://twitter.com/EndwizJoestar">
+            <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" alt="Twitter badge" style="vertical-align:top margin:6px 4px;">
         </a>
     </p>
     <br>
