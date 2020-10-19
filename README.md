@@ -2,10 +2,10 @@
     <p>
         <h3>Languages:</h3>
         <p align="center">
-            <a href="./">
+            <a href="#">
                 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="Java badge" style="vertical-align:top margin:6px 4px">
             </a> 
-            <a href="./">
+            <a href="#">
                 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html badge" style="vertical-align:top margin:6px 4px;">
             </a>
         </p>
