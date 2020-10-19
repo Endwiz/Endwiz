@@ -38,10 +38,29 @@
             </a>
         </p>
     </p>
+</p>
+<p>
     <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
     <br>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Endwiz&show_icons=true&theme=material-palenight&?count_private=false&include_all_commits=false">
     </p>
     <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+</p>
+<p>
+    <h3>My project:</h3>
+    <p>
+        <h4>
+            Discord Rich Presence Manager:
+        </h4>
+        <a href="https://raw.githubusercontent.com/Endwiz/Discord-Rich-Presence-Manager/master/build/libs/Discord-RP-Manager.jar">Download DRP Manager</a>
+        <a href="https://github.com/Endwiz/Discord-Rich-Presence-Manager">Source Code</a>
+    </p>
+    <p>
+        <h4>
+            Maintenance +:
+        </h4>
+        <a href="https://www.spigotmc.org/resources/1-8-1-12-2-maintenance.76186/download?version=319070&__cf_chl_jschl_tk__=d91c237f1ac426b7bdb34a601c2293f17e6d6efb-1603127665-0-AU8JtgGSYOvO2zjJpvWFsIOnpBYCvi0dNEbQD2-26L2bMPR57oFHaqF0IHkj8tyjfFbV7Xlq_YOqBfwCHYL5gfMrjIMOEHiRVZD3-oGrR0_AkUvVfDO2fQ8VFG6N53fJGUFd5188zRMJavH4TmUUOukco9-9wFKR5kBFrGZPVEOnhqTbLm2FdbToOTq3BPzsGyyuBT1uJu6K_DKr6FSbyxpZsOvGG4AXlrgD5Tuni7_7AfDKdozGaSI85oSVIYe1berWoO0a7KVGCafNdDOvVOzn4rU10Sdy7XythTaVQZvZ1OsChNQUaKZCvW064GaZ7-Ys32ILlK2NDUYMtbGUSaW4vHJFw9kutl3RfmvrwFdV">Download Maintenance +</a>
+        <a href="https://github.com/Endwiz/Maintenance-Plus">Source Code</a>
+    </p>
 </p>
