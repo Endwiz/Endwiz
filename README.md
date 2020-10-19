@@ -1,17 +1,11 @@
 <p align="center">
     <a href="#">
-        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="java badge" style="vertical-align:top margin:6px 4px">
+        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="Java badge" style="vertical-align:top margin:6px 4px">
     </a> 
-
     <a href="#">
-        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" alt="intellij badge" style="vertical-align:top margin:6px 4px">
+        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" alt="IntelliJ badge" style="vertical-align:top margin:6px 4px">
     </a> 
-
-    <a href="#">
-        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/bash.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-    </a>
-
-    <a>
+    <a href="">
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html badge" style="vertical-align:top margin:6px 4px;">
     </a>
     <br>
