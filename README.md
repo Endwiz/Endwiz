@@ -8,6 +8,11 @@
     <a href="">
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html badge" style="vertical-align:top margin:6px 4px;">
     </a>
+    <p>
+        <a href="https://youtube.com">
+            <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/streaming/youtube.svg" alt="YT badge" style="vertical-align:top margin:6px 4px;">
+        </a>
+    </p>
     <br>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=Endwiz&show_icons=true&theme=material-palenight&?count_private=true&include_all_commits=true">
