@@ -44,6 +44,7 @@
     <br>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Endwiz&show_icons=true&theme=material-palenight&?count_private=false&include_all_commits=false">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/username=Endwiz&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
     </p>
     <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 </p>
