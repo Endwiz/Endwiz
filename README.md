@@ -42,9 +42,12 @@
 <p>
     <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
     <br>
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Endwiz&show_icons=true&theme=material-palenight&?count_private=false&include_all_commits=false">
-    </p>
+    <a target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Endwiz&title_color=c792ea&text_color=a6accd&icon_color=2bbc8a&bg_color=292d3e">
+        <img target="_blank" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endwiz&title_color=c792ea&text_color=a6accd&icon_color=2bbc8a&bg_color=292d3e">
+    </a>
+    <a target="_blank" href= "https://github-readme-stats.vercel.app/api?username=Endwiz&show_icons=true&theme=material-palenight&?count_private=false&include_all_commits=false">
+        <img target="_blank" align="center" src="https://github-readme-stats.vercel.app/api?username=Endwiz&show_icons=true&theme=material-palenight&?count_private=false&include_all_commits=false">
+    </a>
     <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 </p>
 <p>
