@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/Editor-IntellJ_IDEA-success)
 ![](https://img.shields.io/badge/Favorite%20Language-Java-success)
 
-## Github Stats &#x1f4c8;
+## Github Stats
 <a href="https://github.com/Endwiz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endwiz&show_icons=true&theme=material-palenight&?count_private=false&include_all_commits=false">
 </a>
