@@ -11,3 +11,5 @@
 Ici c'est des petits truc mes vrais projets sont [ici](https://github.com/Endwiz-Corp)
 
 [View my gist](https://gist.github.com/Endwiz)
+
+[Discord](https://discord.endwiz.fr)
